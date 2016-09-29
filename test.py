@@ -1,5 +1,7 @@
 
 
-def EriLee():
-	num = 12
+
+
+def PertyCoy():
+	num = "HelloWorld"
 	return num
