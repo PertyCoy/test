@@ -1,5 +1,5 @@
 
 
-def EriLee():
-	num = 12
-	return num
+def EriLee(num):
+	num_add = 12 +num
+	return num_add
